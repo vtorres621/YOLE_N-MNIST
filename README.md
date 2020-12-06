@@ -15,7 +15,8 @@ Open train.ipynb to see neural network summary, training process and accuracy re
 - Extract test.zip
 - Run the following command:
 'python predict.py --input results/test_paths.txt'
-- This will predict bounding box and class from test images specified in results/test_paths.txt file and create images in the results folder.
+- This will predict bounding box and class from test images specified in results/test_paths.txt (in this case, the first three images from test folder).
+- Check results in results folder.
 
 
 ## References
