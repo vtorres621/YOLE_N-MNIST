@@ -1,6 +1,9 @@
 # EEE591_Final_Project
 Implementation of YOLE on N-MNIST Dataset
 
+## For data pre-processing steps*
+Open data preprocessing folder. *(Not required to run ML code)
+
 ## To see results:
 Open train.ipynb to see neural network summary, training process and accuracy results.
 
