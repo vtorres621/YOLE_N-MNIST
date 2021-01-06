@@ -1,5 +1,5 @@
 # EEE591_Final_Project
-Implementation of YOLE on N-MNIST Dataset
+Implementation of YOLE object detection and classification on N-MNIST (neuromorphic/event camera) Dataset
 
 ## For data pre-processing steps*
 Open data preprocessing folder. *(Not required to run ML code)
